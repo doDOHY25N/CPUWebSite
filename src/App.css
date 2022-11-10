@@ -1,0 +1,55 @@
+/*상단 메뉴*/
+
+ul{
+  list-style-type : none;
+  border : 1px solid rgb(131,231,212);
+  padding : 1rem;
+  background-color: rgb(131,231,212);
+  margin : 2rem 3rem 3rem 3rem;
+  text-align: center;
+  border-radius : 1rem;
+  font-weight: bold;
+}
+
+.tool{
+  display : inline;
+  border-left : 0.08rem solid black;
+  padding : 0rem 2rem 0rem 2rem;
+}
+
+#first{
+  border-left: 0.08rem solid rgb(131,231,212);
+}
+
+/*내용*/
+
+.text{
+  display: block; 
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.3rem;
+  /*border: 1px solid red;*/
+}
+
+#notice{
+  background-color: white;
+  margin : 0rem 0rem 0rem 5rem;
+  border-radius: 1rem;
+}
+
+#photo{
+  background-color: white;
+  margin : 5rem 0rem 0rem 5rem;
+  border-radius: 1rem;
+}
+
+#login{
+  background-color: white;
+  margin: 7rem 5rem 0rem 0rem;
+  border-radius: 1rem;
+  text-align: center;
+  font-size: 1.5rem
+}
+
+
